@@ -18,13 +18,21 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho como Auxiliar de TI
 - 🌱 Estou focado em aprender C#
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=grogww&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=grogww&theme=great-gatsby&hide_border=true"/>
+
+  <!-- Linha com estatísticas e streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grogww&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=grogww&theme=great-gatsby&hide_border=true"/>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grogww&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
+
+  <!-- Linha com linguagens -->
+  <div style="margin-top: 10px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grogww&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
   </div>
+
 </div>
+
 
