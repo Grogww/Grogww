@@ -60,9 +60,9 @@ Disciplinas concluídas:
 - **C#: Criando sua Primeira Aplicação** – Alura (2025)  
 - **Imersão Back-End** – Alura (2024)  
 - **Pentest: Encontrando Vulnerabilidades** – Alura (2024)
-
----
  <!--
+---
+
 ## 📂 Projetos em Destaque
 
 > *(Adicione aqui seus principais repositórios assim que estiverem públicos no GitHub)*  
@@ -99,4 +99,4 @@ Disciplinas concluídas:
 
 ---
 
-⭐ *“Código limpo é aquele que você pode ler e entender facilmente — mesmo meses depois de tê-lo escrito.”*
+<!-- ⭐ *“Código limpo é aquele que você pode ler e entender facilmente — mesmo meses depois de tê-lo escrito.”* -->
