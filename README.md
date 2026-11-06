@@ -80,7 +80,7 @@ Desenvolvimento e manutenção de sistema de controle de processos licitatórios
 <td>
 
 **Assistente de TI** · *Inovea Tecnologia* · out/2023 – fev/2026  
-Implementação e correção de funcionalidades, manutenção de bancos SQL Server e versionamento com Git — base que levou à promoção para o time de desenvolvimento.
+Implementação e correção de funcionalidades, manutenção de bancos SQL Server e versionamento com TFS (Team Foundation Server) — base que levou à promoção para o time de desenvolvimento.
 
 </td>
 </tr>
